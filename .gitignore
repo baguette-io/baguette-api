@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.egg-info
+*.dump
+.cache/
+venv/
+build/
+dist/
+.coverage
+static/
+baguette.sqlite
